@@ -1,0 +1,154 @@
+=== Running Multiple Tests with Random Maps ===
+
+Run 1/5
+Random Map Used:
+SFHFFFFF
+FFFFFFHF
+FFFFFFFF
+HFHFFFFF
+FFFFHFFF
+FFHFFFFF
+FHHFFFFF
+HFFFFFFG
+**Goal reached!**
+
+Search finished.
+Time taken: 0.00 seconds
+Nodes explored: 44
+Best path (length 14): [(0, 1), (1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (2, 6), (2, 7), (3, 7), (4, 7), (5, 7), (6, 7), (7, 7)]
+Point of convergence: (7, 7)
+Final reward: 1
+Reward: 1, Time: 0.00s, Point of Convergence: (7, 7)
+GIF saved to: gifs/bnb_run_1.gif
+
+Run 2/5
+Random Map Used:
+SFFFFFFH
+FFFHFFHH
+FFFFFFFF
+FFFHFFFF
+FFHFHFHH
+FFFFFFHF
+FFFFHFFH
+FFHHFHFG
+**Goal reached!**
+
+Search finished.
+Time taken: 0.00 seconds
+Nodes explored: 46
+Best path (length 14): [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (6, 5), (6, 6), (7, 6), (7, 7)]
+Point of convergence: (7, 7)
+Final reward: 1
+Reward: 1, Time: 0.00s, Point of Convergence: (7, 7)
+GIF saved to: gifs/bnb_run_2.gif
+
+Run 3/5
+Random Map Used:
+SHFFFFFH
+FFFHFHHH
+HFHHFFFF
+FHHFFFFF
+FFFFFFFH
+HHFFFFHF
+FFFFFFFH
+FFHFHFFG
+**Goal reached!**
+
+Search finished.
+Time taken: 0.00 seconds
+Nodes explored: 30
+Best path (length 16): [(1, 0), (1, 1), (1, 2), (0, 2), (0, 3), (0, 4), (1, 4), (2, 4), (2, 5), (3, 5), (4, 5), (5, 5), (6, 5), (6, 6), (7, 6), (7, 7)]
+Point of convergence: (7, 7)
+Final reward: 1
+Reward: 1, Time: 0.00s, Point of Convergence: (7, 7)
+GIF saved to: gifs/bnb_run_3.gif
+
+Run 4/5
+Random Map Used:
+SFFFFFHF
+FFFFFFHH
+FFFHHFFF
+FHFFFFFH
+FFFFHFHF
+FFHFFFFH
+FFHFHFFF
+FHFFHFFG
+**Goal reached!**
+
+Search finished.
+Time taken: 0.00 seconds
+Nodes explored: 46
+Best path (length 14): [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (5, 6), (6, 6), (6, 7), (7, 7)]
+Point of convergence: (7, 7)
+Final reward: 1
+Reward: 1, Time: 0.00s, Point of Convergence: (7, 7)
+GIF saved to: gifs/bnb_run_4.gif
+
+Run 5/5
+Random Map Used:
+SFFFFFFF
+FFHFFFFF
+FFHHFFFH
+HFFFFFFH
+HFFFFFFF
+FFFHFFHF
+FFHHFFFH
+HFFFFFFH
+HFFFFFFF
+FFFHFFHF
+HFFFFFFH
+HFFFFFFF
+FFFHFFHF
+HFFFFFFF
+FFFHFFHF
+FFFHFFHF
+FHFFFFFF
+FHFFFFFF
+FFFHFHHG
+**Goal reached!**
+
+Search finished.
+Time taken: 0.00 seconds
+Nodes explored: 47
+Best path (length 14): [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 6), (2, 6), (3, 6), (4, 6), (4, 7), (5, 7), (6, 7), (7, 7)]
+FFFHFHHG
+**Goal reached!**
+
+Search finished.
+Time taken: 0.00 seconds
+Nodes explored: 47
+Best path (length 14): [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 6), (2, 6), (3, 6), (4, 6), (4, 7), (5, 7), (6, 7), (7, 7)]
+
+Search finished.
+Time taken: 0.00 seconds
+Nodes explored: 47
+Best path (length 14): [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 6), (2, 6), (3, 6), (4, 6), (4, 7), (5, 7), (6, 7), (7, 7)]
+Nodes explored: 47
+Best path (length 14): [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 6), (2, 6), (3, 6), (4, 6), (4, 7), (5, 7), (6, 7), (7, 7)]
+Point of convergence: (7, 7)
+Point of convergence: (7, 7)
+Final reward: 1
+Final reward: 1
+Reward: 1, Time: 0.00s, Point of Convergence: (7, 7)
+GIF saved to: gifs/bnb_run_5.gif
+GIF saved to: gifs/bnb_run_5.gif
+
+
+
+
+Summary:
+Summary:
+Run     Reward  Time (s)        Convergence Point
+Run     Reward  Time (s)        Convergence Point
+1       1       0.00            (7, 7)
+2       1       0.00            (7, 7)
+1       1       0.00            (7, 7)
+2       1       0.00            (7, 7)
+3       1       0.00            (7, 7)
+3       1       0.00            (7, 7)
+4       1       0.00            (7, 7)
+4       1       0.00            (7, 7)
+5       1       0.00            (7, 7)
+
+Average Time: 0.00 sec
+Success Rate: 100%

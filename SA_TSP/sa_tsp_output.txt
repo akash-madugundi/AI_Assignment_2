@@ -1,0 +1,19 @@
+Generating city map once...
+
+Run 1:
+GIF saved to: sa_tsp.gif
+  Time Taken: 0.8979s | Reward: -470.39 | Convergence Iteration: 1632
+Run 2:
+  Time Taken: 0.0398s | Reward: -451.02 | Convergence Iteration: 1426
+Run 3:
+  Time Taken: 0.0231s | Reward: -391.66 | Convergence Iteration: 2269
+Run 4:
+  Time Taken: 0.0240s | Reward: -378.94 | Convergence Iteration: 2122
+Run 5:
+  Time Taken: 0.0272s | Reward: -428.74 | Convergence Iteration: 1526
+
+=== Averages Across Runs ===
+Average Time: 0.2024 seconds
+Average Reward: -424.15
+Average Convergence Iteration: 1795
+Saved average time plot as sa_avg_time.png
