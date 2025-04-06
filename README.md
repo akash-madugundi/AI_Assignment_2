@@ -42,4 +42,3 @@ python sa_tsp
 - Outputs stored as .txt file
 - Gifs are stored in `gifs` folder
 - Average Times plots are saved as png
-```
