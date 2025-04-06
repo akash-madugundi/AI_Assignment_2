@@ -1,0 +1,39 @@
+Initial tour cost: 612.9578815596242
+
+--- Hill Climbing Stats ---
+Reward: -356.68
+Time: 0.0017 seconds
+Point of Convergence: 5 iterations
+Run 1: Time = 0.0017s, Convergence at step = 5
+
+--- Hill Climbing Stats ---
+Reward: -356.68
+Time: 0.0051 seconds
+Point of Convergence: 5 iterations
+Run 2: Time = 0.0051s, Convergence at step = 5
+
+--- Hill Climbing Stats ---
+Reward: -356.68
+Time: 0.0024 seconds
+Point of Convergence: 5 iterations
+Run 3: Time = 0.0024s, Convergence at step = 5
+
+--- Hill Climbing Stats ---
+Reward: -356.68
+Time: 0.0010 seconds
+Point of Convergence: 5 iterations
+Run 4: Time = 0.0010s, Convergence at step = 5
+
+--- Hill Climbing Stats ---
+Reward: -356.68
+Time: 0.0030 seconds
+Point of Convergence: 5 iterations
+Run 5: Time = 0.0030s, Convergence at step = 5
+
+Average Time: 0.0026 seconds
+Average Convergence Steps: 5.00
+Saved average time plot to: hc_avg_time.png
+D:\3.2 Semester 6\ai\AI Asgn 2\hc_tsp.py:152: DeprecationWarning: Starting with ImageIO v3 the behavior of this function will switch to that of iio.v3.imread. To keep the current behavior (and make this warning disappear) use `import imageio.v2 as imageio` or call `imageio.v2.imread` directly.    
+  image = imageio.imread(frame_file)
+GIF saved at: hill_climbing_tsp.gif
+Final Cost: 356.68 in 5 steps
