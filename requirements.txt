@@ -1,0 +1,7 @@
+gym
+gymnasium
+matplotlib
+imageio
+numpy
+pillow
+pygame
